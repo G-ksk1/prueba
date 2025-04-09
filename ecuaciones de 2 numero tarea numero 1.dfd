@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+' ingrese primer numero'
+5
+1
+2
+n1
+4
+1
+26
+' ingrese segundo numero '
+5
+1
+2
+n2
+6
+3
+4
+suma
+5
+n1+n2
+5
+resta
+5
+n1-n2
+14
+multiplicacion
+5
+n1*n2
+6
+1
+8
+division
+5
+n1/n2
+4
+1
+176
+' el resultado es : ',' resuldado de suma ' , suma ,'  ', 'resultado de  resta ', resta,' resultado de multiplicacion','  ', multiplicacion , ' resultado de division', division
+1

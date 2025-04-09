@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+nombre
+2
+''
+4
+1
+18
+' ponga su nombre'
+5
+1
+6
+nombre
+4
+1
+17
+'ponga su sueldo'
+5
+1
+6
+sueldo
+6
+3
+4
+igss
+15
+sueldo*4.81/100
+4
+bono
+13
+sueldo*25/100
+7
+sueldof
+16
+sueldo+bono+igss
+4
+1
+55
+nombre, 'igss',igss, 'bono',bono, 'suledofinal',sueldof
+1
