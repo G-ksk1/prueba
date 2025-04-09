@@ -1,0 +1,79 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'ingrese su  nombre'
+5
+1
+6
+nombre
+4
+1
+19
+'ingrese su sueldo'
+5
+1
+6
+sueldo
+7
+0
+1
+13
+sueldo > 3000
+6
+1
+4
+igss
+15
+sueldo*4.83/100
+4
+1
+32
+nombre, '  ', sueldo, '  ', igss
+13
+7
+0
+1
+13
+sueldo > 4000
+6
+2
+4
+igss
+15
+sueldo*4.83/100
+3
+isr
+14
+sueldo*2.5/100
+4
+1
+43
+nombre, '  ', sueldo, '  ', igss, '   ',isr
+13
+6
+3
+4
+igss
+15
+sueldo*4.83/100
+3
+isr
+14
+sueldo*2.5/100
+8
+impuesto
+12
+sueldo*5/100
+4
+1
+58
+nombre, '  ', sueldo,'  ', igss, '  ', isr, '  ', impuesto
+13
+13
+1
